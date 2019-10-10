@@ -24,7 +24,7 @@ Fizz
 Buzz
 11
 Fizz 
-Fizz
+13
 Whizz
 FizzBuzz
 16
@@ -33,7 +33,7 @@ Fizz
 19
 Buzz 
 … 
-120 
+FizzBuzz 
 ```
 
 You only need to realize the fizzBuzz functions inside by means of TDD.
